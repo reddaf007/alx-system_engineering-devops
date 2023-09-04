@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -emty -printf '#f\n'
+find . -emty -printf "%f\n"
